@@ -9,7 +9,7 @@ const Example = () => {
         className="my-toggle"
         onChange={(e) => setShow(e.target.checked)}
         type="checkbox"
-      />
+      />666666
       <Show when={show}>
         <h1 className="bg-info">show</h1>
       </Show>
