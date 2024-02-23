@@ -22,7 +22,7 @@ const Example2RenderFunction = (props) => {
         {render(name)}dfdddgdfg
       </section>
       <section data-stripes data-name="footer">
-        {renderFooter(name)}
+        {renderFooter(name)}ggggggg
       </section>
     </section>
   );
