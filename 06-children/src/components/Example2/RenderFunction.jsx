@@ -14,7 +14,7 @@ const Example2RenderFunction = (props) => {
 
   return (
     <section data-name="Example2RenderFunction">
-      <h1>{name}</h1>
+      <h1>{name}</h1>qweqweqweqwewq
       <button className="my-btn" onClick={() => setName('hi,React')}>
         click
       </button>
