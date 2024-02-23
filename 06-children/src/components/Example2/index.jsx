@@ -6,7 +6,7 @@ const Example2 = () => {
       <RenderFunction
         render={(name) => <h1>{name}</h1>}
         renderFooter={(name) => <h1>{name}</h1>}
-      />a
+      />bnggngn
     </section>
   );
 };
