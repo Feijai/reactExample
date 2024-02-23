@@ -19,7 +19,7 @@ const Example2RenderFunction = (props) => {
         click
       </button>
       <section data-stripes data-name="body">
-        {render(name)}
+        {render(name)}dfdddgdfg
       </section>
       <section data-stripes data-name="footer">
         {renderFooter(name)}
